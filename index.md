@@ -1,6 +1,22 @@
 ## Welcome to my Resume
 
-hi I'm Peter :))
+### About
+I am Peter, born in July 13 1995. 
+
+### Education
+M.S. NCKU IIM
+
+B.S. NCTU TLM  
+
+### Research
+Deep Learning 
+
+### Internship
+Face recognition
+Logistics optimization
+
+### Extracurricular Activity
+ULtimate Frisbees
 
 You can use the [editor on GitHub](https://github.com/MarcelYuhsin/MarcelYuhsin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
